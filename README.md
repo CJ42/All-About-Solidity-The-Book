@@ -1,8 +1,7 @@
 # All-About-Solidity-The-Book
 Official public repository to post suggestions, issues and improvements for the [All About Solidity Book](https://leanpub.com/all-about-solidity-book).
 
-![Uploading image.png…]()
-
+<img width="585" alt="image" src="https://github.com/CJ42/All-About-Solidity-The-Book/assets/31145285/d3ea5af8-1a90-4776-8e08-dfd501ce64d9">
 
 This is what this whole repository is about:
 - Have any suggestions to improve the book?
